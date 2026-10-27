@@ -1,9 +1,14 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
+    {name: "Create and Barrel", img: "img/Crate-Barrel.png"},
+    {name: "Homegoods", img: "img/HomeGoods.png"},
+    {name: "Ikea", img: "img/IKEA.png"},
+    {name: "Pottery Barn", img: "img/pottery-barn.png"},
+    {name: "Wayfair", img: "img/Wayfair.png"}
    
   ];
 
-const category ="Retail Stores"
+const category ="Home Love"
 
 const attributes = [
   'Adventure',
@@ -92,4 +97,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Home Love"
