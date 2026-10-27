@@ -1,9 +1,14 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
+    {name: "Bath and Body Works", img: "img/Bath-Body-Works.png"},
+    {name: "Olive Young",img: "img/Olive Young.png"},
+    {name: "Sephora", img: "img/Sephora.png"},
+    {name: "Tik Tok", img: "tiktok-shop-logo.png"},
+    {name: "Ulta", img: "img/Ulta.png"}
    
   ];
 
-const category ="Retail Stores"
+const category ="Beauty & Personal Care"
 
 const attributes = [
   'Adventure',
@@ -92,4 +97,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Target_Beauty_Personal_Care"

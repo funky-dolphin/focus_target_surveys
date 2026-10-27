@@ -1165,8 +1165,14 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
-  ],
+    "img/Target.png", 
+    "img/Target.png",
+    "img/Bath-Body-Works.png",
+    "img/Olive Young.png",
+    "img/Sephora.png",
+    "img/tiktok-shop-logo.png",
+    "img/Ulta.png",
+]
 };
 
 timeline.push(preload);
