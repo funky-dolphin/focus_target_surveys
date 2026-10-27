@@ -18,7 +18,7 @@ const attributes = [
 'Discovery',
 'Escape',
 'Dynamic',
-'Boldness',
+'Bold',
 'Experimentation',
 'Pride',
 'Perfection',
