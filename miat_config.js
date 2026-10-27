@@ -1,9 +1,13 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
-   
+    {name: "Aldi", img: "img/Aldi.png"},
+    {name: "Instacart", img: "img/Instacart.png"},
+    {name: "Publix", img: "img/Publix.png"},
+    {name: "Trader Joe's", img: "img/Trader Joes.png"},
+    {name: "Whole Foods", img: "img/Whole Foods.png"},
   ];
 
-const category ="Retail Stores"
+const category ="Food Stores"
 
 const attributes = [
   'Adventure',
@@ -92,4 +96,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Food Forward"
