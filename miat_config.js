@@ -96,4 +96,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Food Forward"
+const survey_name = "Food Forward Survey"
