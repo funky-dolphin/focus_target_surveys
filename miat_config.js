@@ -1,6 +1,10 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
-   
+    {name: "Amazon", img: "img/Amazon.png"},
+    {name: "Walmart", img: "img/Walmart.png"},
+    {name: "Costco", img: "img/Costco.png"},
+    {name: "Kohls", img: "img/Kohls.png"},
+    {name: "Macy's", img: "img/Macys.png"},
   ];
 
 const category ="Retail Stores"

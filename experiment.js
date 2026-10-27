@@ -1165,7 +1165,12 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
+    "img/Target.png",
+    "img/Amazon.png",
+    "img/Walmart.png",
+    "img/Costco.png",
+    "img/Kohls.png",
+    "img/Macys.png",
   ],
 };
 
