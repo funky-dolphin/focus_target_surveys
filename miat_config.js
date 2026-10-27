@@ -1,9 +1,13 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
-   
+    {name: "Gap", img: "img/Gap.png"},
+    {name:"H&M", img:"img/H&M.png"},
+    {name:"J Crew", img:"img/J Crew.png"},
+    {name: "Old Navy", img: "img/Old Navy 2.png"},
+    {name: "TJ Maxx", img: "img/TJ Maxx.png"}
   ];
 
-const category ="Retail Stores"
+const category = "Women's Style"
 
 const attributes = [
   'Adventure',
@@ -92,4 +96,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Target_Womens_Style_Survey"

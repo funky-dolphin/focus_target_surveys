@@ -1165,7 +1165,13 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
+    "img/Target.png",
+     "img/Target.png",
+    "img/Gap.png",
+    "img/H&M.png",
+    "img/J Crew.png",
+    "img/Old Navy 2.png",
+    "img/TJ Maxx.png"
   ],
 };
 
