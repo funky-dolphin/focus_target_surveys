@@ -18,7 +18,7 @@ const attributes = [
 'Discovery',
 'Escape',
 'Dynamic',
-'Boldness',
+'Bold',
 'Experimentation',
 'Pride',
 'Perfection',
@@ -97,4 +97,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Baby and Kid Life Survey"
