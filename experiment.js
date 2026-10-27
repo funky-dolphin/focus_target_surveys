@@ -1169,7 +1169,7 @@ const preload = {
     "img/Target.png",
     "img/Barnes-Noble.png",
     "img/Best Buy.png",
-    "img/Disney-Store.png",
+    "img/Disney Store.png",
     "img/Fanatics.png",
     "img/Miniso-Logo.png"
   ],
