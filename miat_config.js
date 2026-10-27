@@ -96,4 +96,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "target1_Target_Survey_Big_Box"
