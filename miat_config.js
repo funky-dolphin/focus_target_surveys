@@ -97,4 +97,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Beauty_Personal_Care"
+const survey_name = "Target_Beauty_Personal_Care_Survey"
