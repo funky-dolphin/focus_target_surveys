@@ -1165,7 +1165,13 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
+    "img/Target.png",
+    "img/Target.png",
+    "img/Barnes-Noble.png",
+    "img/Best Buy.png",
+    "img/Disney-Store.png",
+    "img/Fanatics.png",
+    "img/Miniso-Logo.png"
   ],
 };
 
