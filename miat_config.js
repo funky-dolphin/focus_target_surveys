@@ -1,9 +1,14 @@
 const brands = [
-    { name: "Target", img: "img/Target.png" },
+    {name: "Target", img: "img/Target.png" },
+    {name: "CVS", img: "img/CVS.png"},
+    {name: "Dicks", img: "img/Dicks.png"},
+    {name: "GNC", img:"img/GNC.png"},
+    {name: "The Vitamin Shoppe",img:"img/The_Vitamin_Shoppe2.png"},
+    {name: "Walgreens", img:"img/Walgreens.png"},
    
   ];
 
-const category ="Retail Stores"
+const category ="Wellness Stores"
 
 const attributes = [
   'Adventure',
@@ -92,4 +97,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Target_Wellness_Survey"
