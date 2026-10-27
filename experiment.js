@@ -1165,8 +1165,14 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
-  ],
+    "img/Target.png",
+    "img/Target.png",
+    "img/baby-gap-logo.png",
+    "img/Carters.png",
+    "img/Gerber.png",
+    "img/Maisonette.png",
+    "img/Pampers-Logo.png",
+  ]
 };
 
 timeline.push(preload);

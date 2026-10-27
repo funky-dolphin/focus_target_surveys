@@ -1,9 +1,14 @@
 const brands = [
     { name: "Target", img: "img/Target.png" },
+    {name: "Baby Gap", img:"img/baby-gap-logo.png"},
+    {name: "Carter's", img: "img/Carters.png"}, 
+    {name: "Gerber", img:"img/Gerber.png"},
+    {name: "Maisonette", img:"Maisonette.png"},
+    {name: "Pampers", img:"Pampers-Logo.png"},
    
   ];
 
-const category ="Retail Stores"
+const category ="Baby & Kid Life"
 
 const attributes = [
   'Adventure',
