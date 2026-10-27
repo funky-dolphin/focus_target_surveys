@@ -7,7 +7,7 @@ const brands = [
     {name: "Macy's", img: "img/Macys.png"},
   ];
 
-const category ="Retail Stores"
+const category ="Big Box Retailers";
 
 const attributes = [
   'Adventure',
