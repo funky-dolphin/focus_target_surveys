@@ -3,7 +3,7 @@ const brands = [
     {name: "Bath and Body Works", img: "img/Bath-Body-Works.png"},
     {name: "Olive Young",img: "img/Olive Young.png"},
     {name: "Sephora", img: "img/Sephora.png"},
-    {name: "Tik Tok", img: "tiktok-shop-logo.png"},
+    {name: "Tik Tok", img: "img/tiktok-shop-logo.png"},
     {name: "Ulta", img: "img/Ulta.png"}
    
   ];
