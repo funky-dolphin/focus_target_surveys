@@ -1703,7 +1703,7 @@ timeline.push({
     const rdud = params.get("rdud") || "";
     const state = params.get("state") || "";
 
-    const FINAL_URL = `https://sw2.decipherinc.com/survey/selfserve/34fd/261008?list=1&rdud=$rdud&state=${encodeURIComponent(state)}&rdud=${encodeURIComponent(rdud)}`;
+    const FINAL_URL = `https://sw2.decipherinc.com/survey/selfserve/34fd/261018?list=1&rdud=$rdud&state=${encodeURIComponent(state)}&rdud=${encodeURIComponent(rdud)}`;
 
     console.log("RDUD =", rdud);
     console.log("STATE =", state);
