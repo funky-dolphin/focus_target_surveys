@@ -2,7 +2,7 @@ const brands = [
     { name: "Target", img: "img/Target.png" },
     {name: "Barnes and Noble", img: "img/Barnes-Noble.png"},
     {name: "Best Buy", img: "img/Best Buy.png"},
-    {name: "Disney Store", img: "img/Disney-Store.png"},
+    {name: "Disney Store", img: "img/Disney Store.png"},
     {name: "Fanatics", img: "img/Fanatics.png"}, 
     {name: "Miniso", img: "img/Miniso-Logo.png"},
   ];
