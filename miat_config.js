@@ -3,8 +3,8 @@ const brands = [
     {name: "Baby Gap", img:"img/baby-gap-logo.png"},
     {name: "Carter's", img: "img/Carters.png"}, 
     {name: "Gerber", img:"img/Gerber.png"},
-    {name: "Maisonette", img:"Maisonette.png"},
-    {name: "Pampers", img:"Pampers-Logo.png"},
+    {name: "Maisonette", img:"img/Maisonette.png"},
+    {name: "Pampers", img:"img/Pampers-Logo.png"},
    
   ];
 
