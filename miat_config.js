@@ -7,7 +7,7 @@ const brands = [
     {name: "Miniso", img: "img/Miniso-Logo.png"},
   ];
 
-const category ="Culture Club"
+const category ="Stores for Pop Culture & Fandom"
 
 const attributes = [
   'Adventure',
