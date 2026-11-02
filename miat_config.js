@@ -8,7 +8,7 @@ const brands = [
    
   ];
 
-const category ="Baby & Kid Life"
+const category ="Baby and Kids' Stores"
 
 const attributes = [
   'Adventure',
