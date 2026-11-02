@@ -8,7 +8,7 @@ const brands = [
    
   ];
 
-const category ="Beauty & Personal Care"
+const category ="Beauty & Personal Care Stores"
 
 const attributes = [
   'Adventure',
