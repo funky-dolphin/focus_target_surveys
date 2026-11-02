@@ -1,5 +1,11 @@
 const brands = [
-    { name: "Target", img: "img/Target.png" },
+    { name: "Cora", img: "img/Cora.webp" },
+    {name: "L", img: "img/L.jpg"},
+    {name: "Lola", img: "img/lola.png"}, 
+    {name: "OB", img: "img/ob-logo.png"},
+    {name: "PlayTex Sport", img: "img/Playtex_Sport_Logo.png"},
+    {name: "Tampax", img: "img/Tampax.png"},
+    {name: "Ukotex", img: "img/Ukotex.png"},
    
   ];
 

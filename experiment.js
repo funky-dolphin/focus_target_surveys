@@ -1165,7 +1165,13 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/Target.png"
+    "img/Cora.webp",
+    "img/L.jpg",
+    "img/lola.png",
+    "img/ob-logo.png",
+    "img/Playtex_Sport_Logo.png",
+    "img/Tampax.png",
+    "img/Ukotex.png"
   ],
 };
 
