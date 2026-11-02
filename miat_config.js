@@ -8,7 +8,7 @@ const brands = [
    
   ];
 
-const category ="Home Love"
+const category ="Home & Decor Stores"
 
 const attributes = [
   'Adventure',
