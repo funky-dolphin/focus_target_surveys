@@ -11,7 +11,7 @@ const brands = [
 const category ="Beauty & Personal Care Stores"
 
 const attributes = [
-  'Adventure',
+'Adventure',
 'Freedom',
 'Courage',
 'Impulsiveness',
