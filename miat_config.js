@@ -7,7 +7,7 @@ const brands = [
     {name: "Whole Foods", img: "img/Whole Foods.png"},
   ];
 
-const category ="Food Stores"
+const category ="Grocery Stores"
 
 const attributes = [
   'Adventure',
