@@ -3,7 +3,7 @@ const brands = [
    
   ];
 
-const category ="Retail Stores"
+const category ="Feminine Care";
 
 const attributes = [
   'Adventure',
@@ -92,4 +92,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Target_Survey_Big_Box"
+const survey_name = "Essity_Focus_Survey"
