@@ -7,7 +7,7 @@ const brands = [
     {name: "TJ Maxx", img: "img/TJ Maxx.png"}
   ];
 
-const category = "Women's Style"
+const category = "Women's Clothing Stores"
 
 const attributes = [
   'Adventure',
