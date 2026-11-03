@@ -9,7 +9,7 @@ const brands = [
    
   ];
 
-const category ="Feminine Care";
+const category ="Tampons";
 
 const attributes = [
   'Adventure',
